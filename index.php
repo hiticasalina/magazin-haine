@@ -23,7 +23,7 @@
         </style>
     </head>
     <body bgcolor="#ffffff">
-        <a href="index.php"><img src="../img/logo.jpg"></a>
+        <a href="index.php"><img src="img/logo.jpg"></a>
         <h1>Autentificare</h1>
         <form action="login.php" method="POST">
             <table>
